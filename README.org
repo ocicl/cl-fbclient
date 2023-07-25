@@ -1,0 +1,10 @@
+* cl-fbclient
+
+Common Lisp library for working with firebird databases
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/klimenko-serj/cl-fbclient.git   |
+| commit  | 7a87ea9  |
+| systems | cl-fbclient |
+|---------+-------------------------------------------|
+
